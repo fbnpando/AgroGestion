@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# JMeter - resultados generados (no versionar)
+jmeter/results/results.jtl
+jmeter/results/report/
